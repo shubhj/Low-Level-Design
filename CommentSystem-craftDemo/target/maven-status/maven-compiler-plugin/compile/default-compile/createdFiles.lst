@@ -1,0 +1,12 @@
+com\intuit\craftDemo\repository\Comment.class
+com\intuit\craftDemo\repository\Post.class
+com\intuit\carftDemo\controller\CommentController.class
+com\intuit\craftDemo\repository\Entity.class
+com\intuit\carftDemo\MainApplication.class
+com\intuit\craftDemo\repository\Client.class
+com\intuit\carftDemo\controller\PostController.class
+com\intuit\craftDemo\repository\User.class
+com\intuit\craftDemo\service\CommentService.class
+com\intuit\craftDemo\repository\PostCommentRepo.class
+com\intuit\craftDemo\service\PostService.class
+com\intuit\craftDemo\repository\Admin.class
